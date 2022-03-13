@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/Rhianaazx/only-math",
+  "repository": "https://github.com/Rhianaazx/only-math",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
